@@ -1,0 +1,12 @@
+.number-wrapper {
+  height: 100px;
+  width: 100px;
+  background-color: yellowgreen;
+  margin-bottom: 10px;
+  display: grid;
+  place-items: center;
+}
+
+.number-wrapper > span {
+  font-size: 2rem;
+}
